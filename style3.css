@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: grey;
+}
+.box1{
+    color: brown;
+    width: 425px;
+    height: 140px;
+    border: 10px solid red;
+    position: relative;
+    left: 508px;
+    text-align: center;
+    box-shadow: 10px 20px crimson;
+    border-radius: 10px;
+    font-style: italic;
+    text-shadow: 2px 2px black;
+    
+
+}
+.greenbox{
+    width: 100%;
+    height: 600px;
+    border-color: green;
+    border: 5px solid green;
+    justify-content: space-evenly;
+
+
+    
+}
+.greenbox1{
+
+    
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    position: relative;
+    right: -50px;
+    box-shadow: 10px 10px crimson;
+    border-radius: 10px;
+    text-align: center;
+    text-shadow: 2px 2px brown;
+
+}
+.greenbox2{
+
+    background-image: url(./general.jpg);
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    float: right;
+    position: relative;
+    top: -200px;
+    left: -39px;
+    box-shadow: 10px 10px crimson;
+    border-radius: 10px;
+
+}
+.greenbox3{
+
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    position: relative;
+    top: 168px;
+    left: 50px;
+    box-shadow: 10px 10px crimson;
+    border-radius: 10px;
+    text-shadow: 2px 2px brown;
+}.greenbox4{
+
+    width: 300px;
+    height: 200px;
+    border: 5px solid red;
+    float: right;
+    position: relative;
+    top: -31px;
+    right: 29px;
+    box-shadow: 10px 10px crimson;
+    border-radius: 10px;
+    text-align: center;
+    text-shadow: 2px 2px brown;
+
+}
+.greenbox5{
+
+    z-index: 1;
+    color: red;
+    font-style: italic;
+    width: 450px;
+    height: 100px;
+    border: 5px solid red;
+    background-color: green;
+    position: fixed;
+    left: 520px;
+
+}
+
+
+.purplebox{
+    
+    width: 700px;
+    height: 700px;
+    border: 10px solid purple;
+    position: relative;
+    left: 382px;
+    background-color: green;
+    text-align: center;
+
+}
+.purplebox1{
+
+    width: 334px;
+    height: 300px;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+
+}
+.purplebox2{
+    
+    width: 334px;
+    height: 300px;
+    background-color: yellow;
+    float: right;
+    position: relative;
+    top: -299px;
+    font-style: italic;
+}
+.purplebox3{
+    
+    
+    width: 700px;
+    height: 321px;
+    background-color: yellow;
+    position: absolute;
+    top: 347px;
+    left: px;
+    font-style: italic;
+    
+    
+    
+    
+}
